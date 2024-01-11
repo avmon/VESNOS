@@ -1,0 +1,3 @@
+CFLAGS += -fopenmp
+LDFLAGS +=  -fopenmp
+LIBS += -lssl -lcrypto -lboost_random -lcryptopp -lpthread
