@@ -4,15 +4,15 @@ VEhicular Secure Network Open Simulator (VESNOS) is an open-source integrated VA
 
 ## Mailing List ##
 
-Under construction
+aabdo003@ucr.edu
 
 ## Getting started ##
 
-Under construction
+To install VESNOS, please follow the instructions listed in the VESNOS User Manual.pdf
 
 ## Issues ##
 
 Under construction
 
 
-# VESNOS
+
